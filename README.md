@@ -15,7 +15,7 @@ Features:
 👤 User profile modal to save player name
 🏆 Leaderboard system to showcase top players
 📜 Instructions page for quick learning
- 🎨 Futuristic animated UI with gradient effects & glowing particles
+    🎨 Futuristic animated UI with gradient effects & glowing particles
 📡 Contact form with notification system
 
 ⚙️ Tech Stack:
