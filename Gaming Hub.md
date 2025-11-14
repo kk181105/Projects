@@ -4,12 +4,18 @@ A​‍​‌‍​‍‌​‍​‌‍​‍‌ modular web-based gaming platf
 The project is a ground-up build with HTML, CSS, and JavaScript, emphasizing UI/UX, game logic, real-time player interactions, and ​‍​‌‍​‍‌​‍​‌‍​‍‌modularity.
 
 Features:
+
 6 Classic Games included:
 ⭕ Tic-Tac-Toe
+
 ✂️ Rock Paper Scissors
+
 🐍 Snake Feeder
+
 🧠 Memory Match
+
 🔢 Number Guessing
+
 🦜 Flappy Bird
 
 - User profile modal to save player name
@@ -29,6 +35,7 @@ Usage:
 * Use the Contact module to send messages (UI Simulation)
 
 Project Architecture:
+
 * Modular UI System: Each section is a module (home, games, leaderboard, etc.)
 * Game Engine Logic:
 -JavaScript functions for each game
@@ -43,6 +50,7 @@ What I Learned---->
 DOM manipulation and event-driven JavaScript | Game development logic | Creating reusable UI components | Improving UX through animations and transitions | Writing modular and scalable code without frameworks
 
 📬 Contact:
+
 LinkedIn: https://www.linkedin.com/in/krithika-k-12643a319/
 
 Email: krithika.work18@gmail.com
