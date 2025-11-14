@@ -4,7 +4,10 @@ A​‍​‌‍​‍‌​‍​‌‍​‍‌ modular web-based gaming platf
 The project is a ground-up build with HTML, CSS, and JavaScript, emphasizing UI/UX, game logic, real-time player interactions, and ​‍​‌‍​‍‌​‍​‌‍​‍‌modularity.
 
 Here's a link to the web page:
-[gaming_hub_modular.html] (https://github.com/user-attachments/files/23555149/gaming_hub_modular.html)
+
+[gaming_hub_modular.html] 
+(https://github.com/user-attachments/files/23555149/gaming_hub_modular.html)
+
 Features:
 
 6 Classic Games included:
