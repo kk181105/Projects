@@ -25,7 +25,10 @@ Features:
 SCREENSHOTS:
 
 [Homepage] 
+<img width="1919" height="837" alt="Image" src="https://github.com/user-attachments/assets/fbd72925-088a-49ce-a047-8ba62ecd0a8d" />
+
 [Games Menu] 
+
 [Game Instructions]
 [Leaderboard] 
 [Contact Page] 
