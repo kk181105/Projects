@@ -7,7 +7,7 @@ The project is a ground-up build with HTML, CSS, and JavaScript, emphasizing UI/
 Here's a link to the web page:
 
 [gaming_hub_modular.html] 
-(https://github.com/user-attachments/files/23555149/gaming_hub_modular.html)
+file:///C:/Users/krith/Downloads/gaming_hub_modular.html
 
 Features:
 
