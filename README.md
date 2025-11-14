@@ -31,9 +31,11 @@ SCREENSHOTS:
 <img width="1919" height="883" alt="Image" src="https://github.com/user-attachments/assets/5d1097c9-f8f4-4b85-80f9-db97ffdc9617" />
 
 [Game Instructions]
-
+<img width="1919" height="888" alt="Image" src="https://github.com/user-attachments/assets/3278679e-3d09-4fb6-b4de-73a0354703a0" />
 
 [Leaderboard] 
+
+
 [Contact Page] 
 
 
