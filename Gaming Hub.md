@@ -57,14 +57,6 @@ Project Architecture:
 What I Learned---->
 DOM manipulation and event-driven JavaScript | Game development logic | Creating reusable UI components | Improving UX through animations and transitions | Writing modular and scalable code without frameworks
 
-📬 Contact:
-
-LinkedIn: https://www.linkedin.com/in/krithika-k-12643a319/
-
-Email: krithika.work18@gmail.com
-
-GitHub: https://github.com/KrithikaK182
-
 Web Screenshots:
 [Homepage] 
 <img width="1919" height="837" alt="Image" src="https://github.com/user-attachments/assets/fbd72925-088a-49ce-a047-8ba62ecd0a8d" />
