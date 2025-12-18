@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Analyzer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url("purple.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        .container {
+            width: 58%;
+            margin: 50px auto;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            font-size: 20px;
+            background-color: white;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        textarea {
+            width: 95%;
+            height: 200px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 18px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            resize: none;
+        }
+        button {
+            background-color: #f2b4dd;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #b63ca9;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Copy-Catcher</h1>
+        <form id="plagiarismForm">
+            <label for="inputText">Enter your text:</label>
+            <textarea id="inputText" placeholder="Paste your text here..."></textarea>
+            <button type="submit">Check for Plagiarism</button>
+        </form>
+        <div id="result" class="result" style="display:none;">
+            <h3>Analysis Result:</h3>
+            <p id="resultText"></p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("plagiarismForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            const inputText = document.getElementById("inputText").value;
+
+            if (!inputText.trim()) {
+                alert("Please enter text to analyze.");
+                return;
+            }
+
+            // Simulating a request to a plagiarism detection API
+            // You can replace this with a real API endpoint or server-side script
+            const mockApiResponse = simulatePlagiarismCheck(inputText);
+
+            // Display result based on mock API response
+            displayResult(mockApiResponse);
+        });
+
+        // Simulated plagiarism check (Replace this with real API call in production)
+        function simulatePlagiarismCheck(inputText) {
+            // Simulating plagiarism score
+            const mockResponse = {
+                plagiarismScore: Math.random() * 100, // Random score for demonstration
+            };
+            return mockResponse;
+        }
+
+        // Display the result of the plagiarism check
+        function displayResult(response) {
+            const plagiarismScore = response.plagiarismScore;
+            let resultMessage = "No plagiarism detected.";
+
+            if (plagiarismScore > 50) {
+                resultMessage = `Plagiarism detected! Similarity score: ${plagiarismScore.toFixed(2)}%`;
+            }
+
+            // Display result in the result div
+            document.getElementById("result").style.display = "block";
+            document.getElementById("resultText").innerText = resultMessage;
+        }
+    </script>
+</body>
+</html>
