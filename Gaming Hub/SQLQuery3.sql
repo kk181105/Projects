@@ -1,0 +1,5 @@
+SELECT TOP (1000) [GameId]
+      ,[Title]
+      ,[Genre]
+      ,[ReleaseYear]
+  FROM [GamingHubDB].[dbo].[Games]
