@@ -4,10 +4,6 @@ A​‍​‌‍​‍‌​‍​‌‍​‍‌ modular web-based gaming platf
 The project is a ground-up build with HTML, CSS, and JavaScript, emphasizing UI/UX, game logic, real-time player interactions, and ​‍​‌‍​‍‌​‍​‌‍​‍‌modularity.
 
 
-Here's a link to download the web page:
-
-(https://github.com/user-attachments/files/23555381/gaming_hub_modular.html)
-
 
 Features:
 
@@ -56,22 +52,6 @@ Project Architecture:
 
 What I Learned---->
 DOM manipulation and event-driven JavaScript | Game development logic | Creating reusable UI components | Improving UX through animations and transitions | Writing modular and scalable code without frameworks
-
-Web Screenshots:
-[Homepage] 
-<img width="1919" height="837" alt="Image" src="https://github.com/user-attachments/assets/fbd72925-088a-49ce-a047-8ba62ecd0a8d" />
-
-[Games Menu] 
-<img width="1919" height="883" alt="Image" src="https://github.com/user-attachments/assets/5d1097c9-f8f4-4b85-80f9-db97ffdc9617" />
-
-[Game Instructions]
-<img width="1919" height="888" alt="Image" src="https://github.com/user-attachments/assets/3278679e-3d09-4fb6-b4de-73a0354703a0" />
-
-[Leaderboard] 
-<img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/e988b2ba-d3be-42c0-b542-52217d17f77e" />
-
-[Contact Page] 
-<img width="1919" height="894" alt="Image" src="https://github.com/user-attachments/assets/84b4d0ba-fcd4-4901-aaaf-c7e57076f8b4" />
 
 
 📬 Contact:
