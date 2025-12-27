@@ -7,7 +7,7 @@ _______________________________________________________________________
 
 *Copy the Raw URL
 
-*Paste the copied link in the website source given below →
+*Paste the copied link in the website source given →
 https://htmlpreview.github.io/
 
 *After pasting the link → Press *Preview*
